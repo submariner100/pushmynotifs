@@ -1,5 +1,5 @@
 # pushmynotifs
-A small Application using Firebase to push notifications.
+A small Application using Firebase to push notifications. Taught by Mark Price, from Devslopes course.
 
 Lessons learnt 
 
